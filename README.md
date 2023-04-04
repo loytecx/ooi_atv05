@@ -1,4 +1,3 @@
-# Atividade 02
+# Atividade 05
 
-1- Implementação do Jokenpô em C
-2- Implementação do Jokenpô em Java
+Desenvolva a atividade conforme [solicitado](https://ava.ifpr.edu.br/mod/assign/view.php?id=206690).
